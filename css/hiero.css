@@ -18,7 +18,7 @@ body {
 	font-weight: 400;
 	font-family: Arial, Helvetica, Microsoft Yahei;
 	line-height: 1.8;
-	background: #EEEEEE;
+	background: #fff;
 	}
 
 /* Headings */
@@ -271,7 +271,7 @@ object {
 	text-decoration: none;
 	}
 .site-description {
-	color: #ffffff;
+	color: #fff;
 	font-family: Arial, "Yanone Kaffeesatz", "Microsoft YaHei Light", Helvetica, sans-serif;
 	font-weight: bold;
 	text-transform: uppercase;
