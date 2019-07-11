@@ -272,8 +272,8 @@ object {
 	}
 .site-description {
 	color: #fff;
-	font-family: Arial, "Yanone Kaffeesatz", "Microsoft YaHei Light", Helvetica, sans-serif;
-	font-weight: bold;
+	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
+	font-size: 1.2em;
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	}
