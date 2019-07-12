@@ -256,6 +256,10 @@ object {
 	padding: 15px 0 0;
 	background: #16171b;
 	}
+	
+/* CC Change:Narrow the site-header 20px to 15px
+-------------------- */	
+
 .site-branding {
 	float: left;
 	}
@@ -266,6 +270,7 @@ object {
 	text-transform: uppercase;
 	line-height: 1;
 	}
+	
 .site-title a {
 	color: #fff;
 	text-decoration: none;
@@ -472,7 +477,7 @@ object {
 ----------------------------------------------- */
 .container {
 	width: 980px;
-	padding: 0px;
+	padding: 5px;
 	}
 .content-area {
 	width: 100%;
