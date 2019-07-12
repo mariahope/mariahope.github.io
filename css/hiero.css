@@ -253,7 +253,7 @@ object {
 /* HEADER
 ----------------------------------------------- */
 .site-header {
-	padding: 20px 0 0;
+	padding: 15px 0 0;
 	background: #16171b;
 	}
 .site-branding {
@@ -261,7 +261,7 @@ object {
 	}
 .site-title {
 	margin: 0;
-	font-size: 4.25em;
+	font-size: 3em;
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
 	text-transform: uppercase;
 	line-height: 1;
@@ -273,8 +273,9 @@ object {
 .site-description {
 	color: #fff;
 	font-family: "Yanone Kaffeesatz", "Microsoft YaHei Light", Arial, Helvetica, sans-serif;
-	font-size: 1.2em;
+	font-size: 1em;
 	text-transform: uppercase;
+	text-weight: bold;
 	letter-spacing: 1px;
 	}
 
