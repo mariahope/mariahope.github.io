@@ -2,16 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.materialdatavisual.com/tags/index.html</loc>
+    
+    <lastmod>2019-07-15T14:05:34.140Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.materialdatavisual.com/about/index.html</loc>
+    
+    <lastmod>2019-07-15T14:05:11.782Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.materialdatavisual.com/supplychain/index.html</loc>
     
-    <lastmod>2019-07-15T13:57:33.401Z</lastmod>
+    <lastmod>2019-07-15T14:04:50.198Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://www.materialdatavisual.com/database/index.html</loc>
     
-    <lastmod>2019-07-15T13:46:20.792Z</lastmod>
+    <lastmod>2019-07-15T14:04:33.311Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.materialdatavisual.com/categories/index.html</loc>
+    
+    <lastmod>2019-07-15T14:04:10.803Z</lastmod>
     
   </url>
   
@@ -30,30 +51,9 @@
   </url>
   
   <url>
-    <loc>http://www.materialdatavisual.com/about/index.html</loc>
-    
-    <lastmod>2019-07-11T09:22:57.832Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.materialdatavisual.com/Gallery/index.html</loc>
     
     <lastmod>2019-07-11T08:42:55.635Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.materialdatavisual.com/tags/index.html</loc>
-    
-    <lastmod>2019-07-10T08:15:00.380Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.materialdatavisual.com/categories/index.html</loc>
-    
-    <lastmod>2019-07-10T08:14:49.227Z</lastmod>
     
   </url>
   
